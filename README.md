@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+大家好，这是我在github的第一个程序
